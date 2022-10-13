@@ -10,4 +10,5 @@ public class PalomaMensajera extends Ave implements EnviadorDeMensaje{
         volarRapido();
         System.out.println(" Lanzando papel que dice: ¡Vote por este Partido!");
     }
+
 }

@@ -1,4 +1,4 @@
-package Clase3.Encapsulamiento;
+package Clase3Encapsulamiento;
 
 import java.util.Scanner;
 

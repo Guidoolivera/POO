@@ -1,4 +1,4 @@
-package Clase2.Comportamiento;
+package Clase2Comportamiento;
 
 public class Main {
     public static void main(String[] args) {
